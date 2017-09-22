@@ -13,7 +13,7 @@ You can install this plugin into your CakePHP application using [composer](http:
 The recommended way to install composer packages is:
 
 ```
-composer require daoandco/cakephp-logging
+composer require cakephplogging/cakephp-logging
 ```
 
 Loading the Plugin like that
