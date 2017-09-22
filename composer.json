@@ -2,6 +2,7 @@
     "name": "fabiojanssen/cakephplogging",
     "description": "Cakephp plugin for Log user's action in database",
     "type": "cakephp-plugin",
+	"version": "1.0.0",
     "require": {
         "php": ">=5.4.16",
         "cakephp/cakephp": "~3.0"
